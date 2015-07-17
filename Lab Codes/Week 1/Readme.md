@@ -1,3 +1,5 @@
+###Problem Set 1
+
 COUNTING VOWELS  (10/10 points):  
 
 Assume s is a string of lower case characters. Write a program that counts up the number of vowels contained in the string s.

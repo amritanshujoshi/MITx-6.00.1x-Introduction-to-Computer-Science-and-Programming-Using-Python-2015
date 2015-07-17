@@ -1,4 +1,4 @@
-COUNTING VOWELS  (10/10 points):
+COUNTING VOWELS  (10/10 points):<return>
 Assume s is a string of lower case characters. Write a program that counts up the number of vowels contained in the string s.
 Valid vowels are: 'a', 'e', 'i', 'o', and 'u'. 
 
@@ -8,7 +8,7 @@ Number of vowels: 5
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-COUNTING BOBS  (15/15 points):
+COUNTING BOBS  (15/15 points):<return>
 Assume s is a string of lower case characters. Write a program that prints the number of times the string 'bob' occurs in s. 
 
 
